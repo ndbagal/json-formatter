@@ -1,0 +1,2480 @@
+{
+  "dealPointId": 10033167,
+  "dealInsDate": "01-25-202416:26:36",
+  "dealPointName": "YouTube HBO MAX 2023+",
+  "dealPointKind": {
+    "code": 1001,
+    "name": "Non Shared Deal",
+    "description": null
+  },
+  "dealPointType": 18,
+  "dealPointTypeName": "Contractual Service Charge",
+  "prioritizationLevel": 1,
+  "inputLevel": 0,
+  "validBeginPeriod": null,
+  "validEndPeriod": null,
+  "dealRelatSubGroups": [
+    {
+      "subGrpId": 100187762,
+      "subGroupName": "Deal Subscriber Group",
+      "isUserDefined": "F",
+      "promoConType": {
+        "code": 1003,
+        "name": "Both Non-Promo & Selected Promo Sets",
+        "description": null
+      },
+      "combConType": {
+        "code": 1003,
+        "name": "Both Non Combo & Selected Combo Sets",
+        "description": null
+      },
+      "subscriberGroup": {
+        "subGrpId": 100187762,
+        "subscriberGroupCriteriaList": [
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1090
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1005
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1006
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1076
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1077
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1078
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1079
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1080
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1081
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1082
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1083
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1084
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1086
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1098
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1099
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 2001
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1013
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1014
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1003
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1004
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1091
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1031
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1001
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1002
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1040
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 9932
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1010
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1000
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1007
+            }
+          },
+          {
+            "id": {
+              "subGrpId": 100187762,
+              "subCritCode": 1008
+            }
+          }
+        ]
+      },
+      "afltdPrvdrPlaceHolderCode": 1000,
+      "afltdPrvdrPlaceHolderDesc": "Deal Party",
+      "transType": {
+        "code": 1000,
+        "name": "None",
+        "description": null
+      },
+      "scopeCode": 1000,
+      "parStatementId": null,
+      "service": {
+        "code": 9932,
+        "name": "MAX SVOD",
+        "description": null
+      },
+      "inclPromo": false,
+      "actionSubgroup": true,
+      "dealSubGrp": true,
+      "inclInCombSvc": false,
+      "subsetComponent": false
+    }
+  ],
+  "dealTerms": [
+    {
+      "dealTermId": 10033168,
+      "dealTermInsDate": "01-25-202416:26:36",
+      "beginPeriod": "08/2023",
+      "endPeriod": null,
+      "updatedBy": "MBLAKE",
+      "updatedOn": "01/25/2024",
+      "templateDesc": "Set Effective Service Charge (CP), with 5 Subscriber Volume Tiers, Down to Floor",
+      "templateId": 10033157,
+      "templateInsDate": "08-01-202316:24:36",
+      "dealLanguage": {
+        "namedComponentDefs": [
+          {
+            "defCode": 1000,
+            "name": "Select",
+            "numericType": 1000,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": false,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1001,
+            "name": "Tier 1 Rate",
+            "numericType": 1001,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1002,
+            "name": "Tier 2 Rate",
+            "numericType": 1001,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1003,
+            "name": "Tier 3 Rate",
+            "numericType": 1001,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1004,
+            "name": "BM1",
+            "numericType": 1000,
+            "displayPrecision": 0,
+            "reportingCategory": 1003,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1005,
+            "name": "Current Subs",
+            "numericType": 1000,
+            "displayPrecision": 1,
+            "reportingCategory": 1001,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1006,
+            "name": "BM2",
+            "numericType": 1000,
+            "displayPrecision": 0,
+            "reportingCategory": 1003,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1007,
+            "name": "Floor",
+            "numericType": 1001,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1008,
+            "name": "Tier 1 Revenue",
+            "numericType": 1001,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1009,
+            "name": "Tier 2 Revenue",
+            "numericType": 1001,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1010,
+            "name": "Tier 3 Revenue",
+            "numericType": 1001,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1011,
+            "name": "Effective Service Charge",
+            "numericType": 1001,
+            "displayPrecision": 9,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1012,
+            "name": "BM3",
+            "numericType": 1000,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1013,
+            "name": "BM4",
+            "numericType": 1000,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1014,
+            "name": "Tier 4 Revenue",
+            "numericType": 1001,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          },
+          {
+            "defCode": 1015,
+            "name": "Tier 5 Revenue",
+            "numericType": 1001,
+            "displayPrecision": 2,
+            "reportingCategory": -1,
+            "maintCalcDetails": true,
+            "scopeTypeCode": 1001,
+            "scopeCode": 1001
+          }
+        ],
+        "constants": [
+          {
+            "state": 2,
+            "componentId": 1004,
+            "componentPrecision": 2,
+            "textRepresentation": "{500,000.00}",
+            "statementId": 1003,
+            "value": "500,000.00"
+          },
+          {
+            "state": 2,
+            "componentId": 1006,
+            "componentPrecision": 2,
+            "textRepresentation": "{1,500,000.00}",
+            "statementId": 1004,
+            "value": "1,500,000.00"
+          },
+          {
+            "state": 2,
+            "componentId": 1008,
+            "componentPrecision": 2,
+            "textRepresentation": "{2,000,000.00}",
+            "statementId": 1005,
+            "value": "2,000,000.00"
+          },
+          {
+            "state": 2,
+            "componentId": 1010,
+            "componentPrecision": 2,
+            "textRepresentation": "{4,000,000.00}",
+            "statementId": 1006,
+            "value": "4,000,000.00"
+          },
+          {
+            "state": 2,
+            "componentId": 1016,
+            "componentPrecision": 2,
+            "textRepresentation": "{13.59}",
+            "statementId": 1007,
+            "value": "13.59"
+          },
+          {
+            "state": 2,
+            "componentId": 1027,
+            "componentPrecision": 2,
+            "textRepresentation": "{0.00}",
+            "statementId": 1008,
+            "value": "0.00"
+          },
+          {
+            "state": 2,
+            "componentId": 1028,
+            "componentPrecision": 2,
+            "textRepresentation": "{13.27}",
+            "statementId": 1008,
+            "value": "13.27"
+          },
+          {
+            "state": 2,
+            "componentId": 1039,
+            "componentPrecision": 2,
+            "textRepresentation": "{0.00}",
+            "statementId": 1009,
+            "value": "0.00"
+          },
+          {
+            "state": 2,
+            "componentId": 1040,
+            "componentPrecision": 2,
+            "textRepresentation": "{12.79}",
+            "statementId": 1009,
+            "value": "12.79"
+          },
+          {
+            "state": 2,
+            "componentId": 1051,
+            "componentPrecision": 2,
+            "textRepresentation": "{0.00}",
+            "statementId": 1010,
+            "value": "0.00"
+          },
+          {
+            "state": 2,
+            "componentId": 1052,
+            "componentPrecision": 2,
+            "textRepresentation": "{12.31}",
+            "statementId": 1010,
+            "value": "12.31"
+          },
+          {
+            "state": 2,
+            "componentId": 1059,
+            "componentPrecision": 2,
+            "textRepresentation": "{0.00}",
+            "statementId": 1011,
+            "value": "0.00"
+          },
+          {
+            "state": 2,
+            "componentId": 1060,
+            "componentPrecision": 2,
+            "textRepresentation": "{11.99}",
+            "statementId": 1011,
+            "value": "11.99"
+          },
+          {
+            "state": 2,
+            "componentId": 1074,
+            "componentPrecision": 2,
+            "textRepresentation": "{0.00}",
+            "statementId": 1012,
+            "value": "0.00"
+          }
+        ],
+        "subscriberCountComponents": [
+          {
+            "state": 2,
+            "componentId": 1002,
+            "componentPrecision": 1,
+            "textRepresentation": "{Deal Subscriber Group, Init, AVG, BP }",
+            "statementId": 1002,
+            "subscriberGroupDefCode": 1001,
+            "dealRelatSubGroupId": 100187762
+          }
+        ],
+        "namedComponents": [
+          {
+            "state": 1,
+            "componentId": 1001,
+            "componentType": 1006,
+            "componentPrecision": 1,
+            "statementId": 1002,
+            "namedComponentDefCode": 1005,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1003,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1003,
+            "namedComponentDefCode": 1004,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1005,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1004,
+            "namedComponentDefCode": 1006,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1007,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1005,
+            "namedComponentDefCode": 1012,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1009,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1006,
+            "namedComponentDefCode": 1013,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1011,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1007,
+            "namedComponentDefCode": 1008,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1014,
+            "componentType": 1006,
+            "componentPrecision": 1,
+            "statementId": 1007,
+            "namedComponentDefCode": 1005,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1015,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1007,
+            "namedComponentDefCode": 1004,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1017,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1008,
+            "namedComponentDefCode": 1009,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1022,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1008,
+            "namedComponentDefCode": 1006,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1023,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1008,
+            "namedComponentDefCode": 1004,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1025,
+            "componentType": 1006,
+            "componentPrecision": 1,
+            "statementId": 1008,
+            "namedComponentDefCode": 1005,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1026,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1008,
+            "namedComponentDefCode": 1004,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1029,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1009,
+            "namedComponentDefCode": 1010,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1034,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1009,
+            "namedComponentDefCode": 1012,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1035,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1009,
+            "namedComponentDefCode": 1006,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1037,
+            "componentType": 1006,
+            "componentPrecision": 1,
+            "statementId": 1009,
+            "namedComponentDefCode": 1005,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1038,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1009,
+            "namedComponentDefCode": 1006,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1041,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1010,
+            "namedComponentDefCode": 1014,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1046,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1010,
+            "namedComponentDefCode": 1013,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1047,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1010,
+            "namedComponentDefCode": 1012,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1049,
+            "componentType": 1006,
+            "componentPrecision": 1,
+            "statementId": 1010,
+            "namedComponentDefCode": 1005,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1050,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1010,
+            "namedComponentDefCode": 1012,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1053,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1011,
+            "namedComponentDefCode": 1015,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1057,
+            "componentType": 1006,
+            "componentPrecision": 1,
+            "statementId": 1011,
+            "namedComponentDefCode": 1005,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1058,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1011,
+            "namedComponentDefCode": 1013,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1061,
+            "componentType": 1006,
+            "componentPrecision": 9,
+            "statementId": 1012,
+            "namedComponentDefCode": 1011,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1067,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1012,
+            "namedComponentDefCode": 1008,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1068,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1012,
+            "namedComponentDefCode": 1009,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1070,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1012,
+            "namedComponentDefCode": 1010,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1071,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1012,
+            "namedComponentDefCode": 1014,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1072,
+            "componentType": 1006,
+            "componentPrecision": 2,
+            "statementId": 1012,
+            "namedComponentDefCode": 1015,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1073,
+            "componentType": 1006,
+            "componentPrecision": 1,
+            "statementId": 1012,
+            "namedComponentDefCode": 1005,
+            "componentSubType": 0
+          },
+          {
+            "state": 1,
+            "componentId": 1075,
+            "componentType": 1006,
+            "componentPrecision": 9,
+            "statementId": 1015,
+            "namedComponentDefCode": 1011,
+            "componentSubType": 0
+          }
+        ],
+        "arithmeticExpressions": [
+          {
+            "state": 1,
+            "componentId": 1012,
+            "componentPrecision": 2,
+            "statementId": 1007,
+            "leftAC": 1013,
+            "leftACType": 1005,
+            "leftACSubType": 1,
+            "rightAC": 1016,
+            "rightACType": 1001,
+            "rightACSubType": 0,
+            "arithmeticOp": 3
+          },
+          {
+            "state": 1,
+            "componentId": 1021,
+            "componentPrecision": 2,
+            "statementId": 1008,
+            "leftAC": 1022,
+            "leftACType": 1006,
+            "leftACSubType": 0,
+            "rightAC": 1023,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 2
+          },
+          {
+            "state": 1,
+            "componentId": 1024,
+            "componentPrecision": 1,
+            "statementId": 1008,
+            "leftAC": 1025,
+            "leftACType": 1006,
+            "leftACSubType": 0,
+            "rightAC": 1026,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 2
+          },
+          {
+            "state": 1,
+            "componentId": 1018,
+            "componentPrecision": 2,
+            "statementId": 1008,
+            "leftAC": 1019,
+            "leftACType": 1005,
+            "leftACSubType": 2,
+            "rightAC": 1028,
+            "rightACType": 1001,
+            "rightACSubType": 0,
+            "arithmeticOp": 3
+          },
+          {
+            "state": 1,
+            "componentId": 1033,
+            "componentPrecision": 2,
+            "statementId": 1009,
+            "leftAC": 1034,
+            "leftACType": 1006,
+            "leftACSubType": 0,
+            "rightAC": 1035,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 2
+          },
+          {
+            "state": 1,
+            "componentId": 1036,
+            "componentPrecision": 1,
+            "statementId": 1009,
+            "leftAC": 1037,
+            "leftACType": 1006,
+            "leftACSubType": 0,
+            "rightAC": 1038,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 2
+          },
+          {
+            "state": 1,
+            "componentId": 1030,
+            "componentPrecision": 2,
+            "statementId": 1009,
+            "leftAC": 1031,
+            "leftACType": 1005,
+            "leftACSubType": 2,
+            "rightAC": 1040,
+            "rightACType": 1001,
+            "rightACSubType": 0,
+            "arithmeticOp": 3
+          },
+          {
+            "state": 1,
+            "componentId": 1045,
+            "componentPrecision": 2,
+            "statementId": 1010,
+            "leftAC": 1046,
+            "leftACType": 1006,
+            "leftACSubType": 0,
+            "rightAC": 1047,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 2
+          },
+          {
+            "state": 1,
+            "componentId": 1048,
+            "componentPrecision": 1,
+            "statementId": 1010,
+            "leftAC": 1049,
+            "leftACType": 1006,
+            "leftACSubType": 0,
+            "rightAC": 1050,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 2
+          },
+          {
+            "state": 1,
+            "componentId": 1042,
+            "componentPrecision": 2,
+            "statementId": 1010,
+            "leftAC": 1043,
+            "leftACType": 1005,
+            "leftACSubType": 2,
+            "rightAC": 1052,
+            "rightACType": 1001,
+            "rightACSubType": 0,
+            "arithmeticOp": 3
+          },
+          {
+            "state": 1,
+            "componentId": 1056,
+            "componentPrecision": 1,
+            "statementId": 1011,
+            "leftAC": 1057,
+            "leftACType": 1006,
+            "leftACSubType": 0,
+            "rightAC": 1058,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 2
+          },
+          {
+            "state": 1,
+            "componentId": 1054,
+            "componentPrecision": 2,
+            "statementId": 1011,
+            "leftAC": 1055,
+            "leftACType": 1005,
+            "leftACSubType": 2,
+            "rightAC": 1060,
+            "rightACType": 1001,
+            "rightACSubType": 0,
+            "arithmeticOp": 3
+          },
+          {
+            "state": 1,
+            "componentId": 1066,
+            "componentPrecision": 2,
+            "statementId": 1012,
+            "leftAC": 1067,
+            "leftACType": 1006,
+            "leftACSubType": 0,
+            "rightAC": 1068,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 1
+          },
+          {
+            "state": 1,
+            "componentId": 1069,
+            "componentPrecision": 2,
+            "statementId": 1012,
+            "leftAC": 1070,
+            "leftACType": 1006,
+            "leftACSubType": 0,
+            "rightAC": 1071,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 1
+          },
+          {
+            "state": 1,
+            "componentId": 1065,
+            "componentPrecision": 2,
+            "statementId": 1012,
+            "leftAC": 1066,
+            "leftACType": 1004,
+            "leftACSubType": 0,
+            "rightAC": 1069,
+            "rightACType": 1004,
+            "rightACSubType": 0,
+            "arithmeticOp": 1
+          },
+          {
+            "state": 1,
+            "componentId": 1064,
+            "componentPrecision": 2,
+            "statementId": 1012,
+            "leftAC": 1065,
+            "leftACType": 1004,
+            "leftACSubType": 0,
+            "rightAC": 1072,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 1
+          },
+          {
+            "state": 1,
+            "componentId": 1063,
+            "componentPrecision": 9,
+            "statementId": 1012,
+            "leftAC": 1064,
+            "leftACType": 1004,
+            "leftACSubType": 0,
+            "rightAC": 1073,
+            "rightACType": 1006,
+            "rightACSubType": 0,
+            "arithmeticOp": 4
+          }
+        ],
+        "minimumComponents": [
+          {
+            "state": 1,
+            "componentId": 1013,
+            "componentPrecision": 1,
+            "statementId": 1007,
+            "grpComps": [
+              {
+                "state": 1,
+                "componentType": 1006,
+                "componentPrecision": 1,
+                "arithmeticComponentId": 1014,
+                "componentSubType": 0
+              },
+              {
+                "state": 1,
+                "componentType": 1006,
+                "componentPrecision": 2,
+                "arithmeticComponentId": 1015,
+                "componentSubType": 0
+              }
+            ]
+          },
+          {
+            "state": 1,
+            "componentId": 1020,
+            "componentPrecision": 1,
+            "statementId": 1008,
+            "grpComps": [
+              {
+                "state": 1,
+                "componentType": 1004,
+                "componentPrecision": 2,
+                "arithmeticComponentId": 1021,
+                "componentSubType": 0
+              },
+              {
+                "state": 1,
+                "componentType": 1004,
+                "componentPrecision": 1,
+                "arithmeticComponentId": 1024,
+                "componentSubType": 0
+              }
+            ]
+          },
+          {
+            "state": 1,
+            "componentId": 1032,
+            "componentPrecision": 1,
+            "statementId": 1009,
+            "grpComps": [
+              {
+                "state": 1,
+                "componentType": 1004,
+                "componentPrecision": 2,
+                "arithmeticComponentId": 1033,
+                "componentSubType": 0
+              },
+              {
+                "state": 1,
+                "componentType": 1004,
+                "componentPrecision": 1,
+                "arithmeticComponentId": 1036,
+                "componentSubType": 0
+              }
+            ]
+          },
+          {
+            "state": 1,
+            "componentId": 1044,
+            "componentPrecision": 1,
+            "statementId": 1010,
+            "grpComps": [
+              {
+                "state": 1,
+                "componentType": 1004,
+                "componentPrecision": 2,
+                "arithmeticComponentId": 1045,
+                "componentSubType": 0
+              },
+              {
+                "state": 1,
+                "componentType": 1004,
+                "componentPrecision": 1,
+                "arithmeticComponentId": 1048,
+                "componentSubType": 0
+              }
+            ]
+          }
+        ],
+        "maximumComponents": [
+          {
+            "state": 1,
+            "componentId": 1019,
+            "componentPrecision": 1,
+            "statementId": 1008,
+            "grpComps": [
+              {
+                "state": 1,
+                "componentType": 1005,
+                "componentPrecision": 1,
+                "arithmeticComponentId": 1020,
+                "componentSubType": 1
+              },
+              {
+                "state": 1,
+                "componentType": 1001,
+                "componentPrecision": 2,
+                "arithmeticComponentId": 1027,
+                "componentSubType": 0
+              }
+            ]
+          },
+          {
+            "state": 1,
+            "componentId": 1031,
+            "componentPrecision": 1,
+            "statementId": 1009,
+            "grpComps": [
+              {
+                "state": 1,
+                "componentType": 1005,
+                "componentPrecision": 1,
+                "arithmeticComponentId": 1032,
+                "componentSubType": 1
+              },
+              {
+                "state": 1,
+                "componentType": 1001,
+                "componentPrecision": 2,
+                "arithmeticComponentId": 1039,
+                "componentSubType": 0
+              }
+            ]
+          },
+          {
+            "state": 1,
+            "componentId": 1043,
+            "componentPrecision": 1,
+            "statementId": 1010,
+            "grpComps": [
+              {
+                "state": 1,
+                "componentType": 1005,
+                "componentPrecision": 1,
+                "arithmeticComponentId": 1044,
+                "componentSubType": 1
+              },
+              {
+                "state": 1,
+                "componentType": 1001,
+                "componentPrecision": 2,
+                "arithmeticComponentId": 1051,
+                "componentSubType": 0
+              }
+            ]
+          },
+          {
+            "state": 1,
+            "componentId": 1055,
+            "componentPrecision": 1,
+            "statementId": 1011,
+            "grpComps": [
+              {
+                "state": 1,
+                "componentType": 1004,
+                "componentPrecision": 1,
+                "arithmeticComponentId": 1056,
+                "componentSubType": 0
+              },
+              {
+                "state": 1,
+                "componentType": 1001,
+                "componentPrecision": 2,
+                "arithmeticComponentId": 1059,
+                "componentSubType": 0
+              }
+            ]
+          },
+          {
+            "state": 1,
+            "componentId": 1062,
+            "componentPrecision": 9,
+            "statementId": 1012,
+            "grpComps": [
+              {
+                "state": 1,
+                "componentType": 1004,
+                "componentPrecision": 9,
+                "arithmeticComponentId": 1063,
+                "componentSubType": 0
+              },
+              {
+                "state": 1,
+                "componentType": 1001,
+                "componentPrecision": 2,
+                "arithmeticComponentId": 1074,
+                "componentSubType": 0
+              }
+            ]
+          }
+        ],
+        "namedCompAssignments": [
+          {
+            "statementId": 1002,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1001,
+            "arithmeticComponentId": 1002,
+            "arithmeticComponentType": 1002,
+            "arithmeticComponentSubType": 1001,
+            "acDesc": "SC {Deal Subscriber Group, Init, AVG, BP }"
+          },
+          {
+            "statementId": 1003,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1003,
+            "arithmeticComponentId": 1004,
+            "arithmeticComponentType": 1001,
+            "arithmeticComponentSubType": 0,
+            "acDesc": "C{500000.00}"
+          },
+          {
+            "statementId": 1004,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1005,
+            "arithmeticComponentId": 1006,
+            "arithmeticComponentType": 1001,
+            "arithmeticComponentSubType": 0,
+            "acDesc": "C{1500000.00}"
+          },
+          {
+            "statementId": 1005,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1007,
+            "arithmeticComponentId": 1008,
+            "arithmeticComponentType": 1001,
+            "arithmeticComponentSubType": 0,
+            "acDesc": "C{2000000.00}"
+          },
+          {
+            "statementId": 1006,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1009,
+            "arithmeticComponentId": 1010,
+            "arithmeticComponentType": 1001,
+            "arithmeticComponentSubType": 0,
+            "acDesc": "C{4000000.00}"
+          },
+          {
+            "statementId": 1007,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1011,
+            "arithmeticComponentId": 1012,
+            "arithmeticComponentType": 1004,
+            "arithmeticComponentSubType": 0,
+            "acDesc": "(Min{Current Subs, BM1} * C{13.59})"
+          },
+          {
+            "statementId": 1008,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1017,
+            "arithmeticComponentId": 1018,
+            "arithmeticComponentType": 1004,
+            "arithmeticComponentSubType": 0,
+            "acDesc": "(Max{Min{(BM2 - BM1), (Current Subs - BM1)}, C{0.00}} * C{13.27})"
+          },
+          {
+            "statementId": 1009,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1029,
+            "arithmeticComponentId": 1030,
+            "arithmeticComponentType": 1004,
+            "arithmeticComponentSubType": 0,
+            "acDesc": "(Max{Min{(BM3 - BM2), (Current Subs - BM2)}, C{0.00}} * C{12.79})"
+          },
+          {
+            "statementId": 1010,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1041,
+            "arithmeticComponentId": 1042,
+            "arithmeticComponentType": 1004,
+            "arithmeticComponentSubType": 0,
+            "acDesc": "(Max{Min{(BM4 - BM3), (Current Subs - BM3)}, C{0.00}} * C{12.31})"
+          },
+          {
+            "statementId": 1011,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1053,
+            "arithmeticComponentId": 1054,
+            "arithmeticComponentType": 1004,
+            "arithmeticComponentSubType": 0,
+            "acDesc": "(Max{(Current Subs - BM4), C{0.00}} * C{11.99})"
+          },
+          {
+            "statementId": 1012,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "namedComponentId": 1061,
+            "arithmeticComponentId": 1062,
+            "arithmeticComponentType": 1005,
+            "arithmeticComponentSubType": 2,
+            "acDesc": "Max{((((Tier 1 Revenue + Tier 2 Revenue) + (Tier 3 Revenue + Tier 4 Revenue)) + Tier 5 Revenue) / Current Subs), C{0.00}}"
+          }
+        ],
+        "subscriberGroupIterators": [
+          {
+            "statementId": 1013,
+            "parStatementId": 1001,
+            "parStatementType": 1004,
+            "childStatementId": 1014,
+            "subGrpId": 100187763
+          }
+        ],
+        "actionStatements": [
+          {
+            "statementId": 1015,
+            "parStatementId": 1014,
+            "parStatementType": 1004,
+            "arithmeticComponentId": 1075,
+            "arithmeticComponentType": 1006,
+            "arithmeticComponentSubType": 0,
+            "actionType": 2001,
+            "actionName": "Set Effective Service Charge"
+          }
+        ],
+        "statementBlocks": [
+          {
+            "statementId": 1014,
+            "parStatementId": 1013,
+            "parStatementType": 1007,
+            "blockStatements": [
+              {
+                "statementId": 1015,
+                "statementType": 1002
+              }
+            ]
+          }
+        ],
+        "scopeList": [
+          {
+            "scopeCode": 1000,
+            "scopeTypeCode": 1000,
+            "namedComponentDefCodes": [
+              1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011,
+              1012, 1013, 1014, 1015
+            ],
+            "subscriberGroupDefCodes": [],
+            "apPlaceholderDefCodes": [],
+            "dealRelatSubGroupCodes": [100187762],
+            "afltdPrvdrPlaceholderCodes": []
+          },
+          {
+            "scopeCode": 1001,
+            "scopeTypeCode": 1001,
+            "namedComponentDefCodes": [
+              1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011,
+              1012, 1013, 1014, 1015
+            ],
+            "subscriberGroupDefCodes": [],
+            "apPlaceholderDefCodes": [],
+            "dealRelatSubGroupCodes": [100187762],
+            "afltdPrvdrPlaceholderCodes": []
+          },
+          {
+            "scopeCode": 1013,
+            "scopeTypeCode": 1003,
+            "namedComponentDefCodes": [
+              1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010, 1011,
+              1012, 1013, 1014, 1015
+            ],
+            "subscriberGroupDefCodes": [],
+            "apPlaceholderDefCodes": [],
+            "dealRelatSubGroupCodes": [100187763, 100187762],
+            "afltdPrvdrPlaceholderCodes": []
+          }
+        ],
+        "mainBlock": {
+          "statementId": 1001,
+          "blockStatements": [
+            {
+              "statementId": 1002,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1003,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1004,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1005,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1006,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1007,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1008,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1009,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1010,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1011,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1012,
+              "statementType": 1006
+            },
+            {
+              "statementId": 1013,
+              "statementType": 1007
+            }
+          ]
+        },
+        "subscriberCountComponentDefs": [
+          {
+            "dealUnitId": 10033168,
+            "dealUnitInsertDate": "01-25-202416:26:36",
+            "acDefDesc": "{Deal Subscriber Group, Init, AVG, BP }",
+            "scopeCode": 1001,
+            "subGrpDefCode": 1001,
+            "potCountType": {
+              "code": 1001,
+              "name": "Single",
+              "description": null
+            },
+            "subGrpBegPeriod": null,
+            "subGrpEndPeriod": null,
+            "subGrpBegOffset": 0,
+            "subGrpEndOffset": 0,
+            "service": {
+              "code": 9932,
+              "name": "MAX SVOD",
+              "description": null
+            },
+            "dealRelatSubGroupId": 100187762,
+            "beginPeriodType": {
+              "code": 1001,
+              "name": "Billing Period",
+              "description": null
+            },
+            "endPeriodType": {
+              "code": 1001,
+              "name": "Billing Period",
+              "description": null
+            },
+            "acSubGrpTypeCode": 1001,
+            "monthTypeCode": 1002,
+            "elseMonthTypeCode": null,
+            "acSubGrpKindCode": 1000,
+            "perTypeDefCode": 1001
+          }
+        ],
+        "afltdPrvdrPlaceholders": [],
+        "dealRelatSubGroups": [
+          {
+            "subGrpId": 100187763,
+            "subGroupName": "Current Subscriber Set",
+            "isUserDefined": "F",
+            "promoConType": {
+              "code": 1001,
+              "name": "Only Non-Promo Sets",
+              "description": null
+            },
+            "combConType": {
+              "code": 1001,
+              "name": "Only Non-Combo Sets",
+              "description": null
+            },
+            "subscriberGroup": {
+              "subGrpId": 100187763,
+              "subscriberGroupCriteriaList": [
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1090
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1005
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1006
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1076
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1077
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1078
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1079
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1080
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1081
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1082
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1083
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1084
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1086
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1098
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1099
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 2001
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1013
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1014
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1003
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1004
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1091
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1031
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1001
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1002
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1040
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 9932
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1010
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1000
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1007
+                  }
+                },
+                {
+                  "id": {
+                    "subGrpId": 100187762,
+                    "subCritCode": 1008
+                  }
+                }
+              ]
+            },
+            "afltdPrvdrPlaceHolderCode": null,
+            "afltdPrvdrPlaceHolderDesc": null,
+            "transType": {
+              "code": 1000,
+              "name": "None",
+              "description": null
+            },
+            "scopeCode": 1013,
+            "parStatementId": 1013,
+            "service": null,
+            "inclPromo": false,
+            "actionSubgroup": true,
+            "dealSubGrp": false,
+            "inclInCombSvc": false,
+            "subsetComponent": true
+          }
+        ],
+        "conditionalExpIdCounter": 1000,
+        "statementIdCounter": 1015,
+        "booleanIdCounter": 1000,
+        "arithmeticCompIdCounter": 1075,
+        "namedCompDefIdCounter": 1015,
+        "afltdPrvdrPlcholdCodeCounter": 1002,
+        "subGrpIdCounter": 100187763,
+        "afltdGrpDefCounter": 1000,
+        "dealLangModified": false
+      },
+      "templateInvItems": null,
+      "affiliateGroupings": [],
+      "isDealTermVerified": "F",
+      "isLangVerified": "F",
+      "isPeriodVerified": "F",
+      "hasAdditionalPeriods": "F",
+      "hasAdditionalApPlaceholders": false,
+      "dealTermAdded": false,
+      "dealTermTemplateChanged": false,
+      "dealTermEffPeriodChanged": false,
+      "periodModified": false,
+      "affGrpDefModified": false
+    }
+  ],
+  "enrollmentType": {
+    "code": 1000,
+    "name": "Affiliated Hierarchy Enrollment",
+    "description": null
+  },
+  "enrollmentLevel": null,
+  "offerWindow": null,
+  "promotionCode": null,
+  "defaultEnrollment": null,
+  "service": {
+    "code": 9932,
+    "name": "MAX SVOD",
+    "description": null
+  },
+  "rules": null,
+  "isDealPointVerified": "T",
+  "enrollment": {
+    "enrollId": 100187383,
+    "orgId": 1162685,
+    "legacyOrgId": "OY0AH000",
+    "orgDesc": "YouTube",
+    "beginPeriod": "08/2023",
+    "enrollKindCode": 1001,
+    "hasBeenUsedInCloseType": true,
+    "verified": false,
+    "enrollPeriodChanged": false,
+    "affGrpDefModified": false,
+    "update": false
+  },
+  "deletable": false,
+  "dealTermIdCounter": 10033168,
+  "dealPointNameChanged": false,
+  "dealSubGrpModified": false,
+  "dealTypeChanged": false,
+  "dealTermAdded": false,
+  "dealTermDeleted": false,
+  "enrollPeriodChanged": false,
+  "dealPartyModified": false,
+  "affGrpDefCreated": false,
+  "affGrpDefDeleted": false,
+  "affGrpDefModified": false,
+  "update": false,
+  "afltdPrvdrPlaceholder": [
+    {
+      "afltdPrvdrPlcholdCode": 1000,
+      "afltdPrvdrPlcholdDesc": "Deal Party",
+      "afltdGrpDefCode": 1000,
+      "scopeCode": 1000,
+      "dealRelatSubGroupId": null,
+      "parStatementId": null,
+      "transType": {
+        "code": 1000,
+        "name": "None",
+        "description": null
+      },
+      "isTransTypeChanged": null,
+      "trxnlAfltGrp": false,
+      "userDefined": false
+    }
+  ],
+  "dealParty": {
+    "afltdGrpDefCode": 1000,
+    "afltdGrpDefName": "Deal Party",
+    "isDealParty": "T",
+    "isUserDefined": "F",
+    "afltdGroupDefType": {
+      "code": 1001,
+      "name": "Hierarchy Group Def",
+      "description": null
+    },
+    "organization": {
+      "parOrgId": null,
+      "rootId": null,
+      "legacyOrgId": "OY0AH000",
+      "orgTypeCode": 1000,
+      "orgTypeName": "Owner",
+      "orgName": "YouTube",
+      "city": null,
+      "state": null,
+      "keyDate": null,
+      "username": null,
+      "selected": true,
+      "beginPeriod": null,
+      "endPeriod": null,
+      "hasChild": true,
+      "orgIncl": true,
+      "childOrgId": 1162685,
+      "uiselected": true,
+      "systems": [
+        {
+          "parOrgId": 1162685,
+          "rootId": 1163094,
+          "legacyOrgId": "SMOC1000",
+          "orgTypeCode": 1003,
+          "orgTypeName": "System",
+          "orgName": "MOUNTAIN VIEW, CA",
+          "city": "MOUNTAIN VIEW",
+          "state": "CA",
+          "keyDate": "04/02/2024",
+          "username": null,
+          "selected": true,
+          "beginPeriod": null,
+          "endPeriod": null,
+          "hasChild": false,
+          "orgIncl": false,
+          "childOrgId": 1163094,
+          "uiselected": true,
+          "systems": []
+        },
+        {
+          "parOrgId": 1162685,
+          "rootId": 1164981,
+          "legacyOrgId": "SMOC6000",
+          "orgTypeCode": 1003,
+          "orgTypeName": "System",
+          "orgName": "Mountain View, CA",
+          "city": "Mountain View",
+          "state": "CA",
+          "keyDate": "04/02/2024",
+          "username": null,
+          "selected": true,
+          "beginPeriod": null,
+          "endPeriod": null,
+          "hasChild": false,
+          "orgIncl": false,
+          "childOrgId": 1164981,
+          "uiselected": true,
+          "systems": []
+        }
+      ]
+    },
+    "includedAffiliates": [
+      {
+        "parOrgId": null,
+        "rootId": null,
+        "legacyOrgId": "OY0AH000",
+        "orgTypeCode": 1000,
+        "orgTypeName": "Owner",
+        "orgName": "YouTube",
+        "city": null,
+        "state": null,
+        "keyDate": null,
+        "username": null,
+        "selected": true,
+        "beginPeriod": null,
+        "endPeriod": null,
+        "hasChild": true,
+        "orgIncl": true,
+        "childOrgId": 1162685,
+        "uiselected": true,
+        "systems": [
+          {
+            "parOrgId": 1162685,
+            "rootId": 1163094,
+            "legacyOrgId": "SMOC1000",
+            "orgTypeCode": 1003,
+            "orgTypeName": "System",
+            "orgName": "MOUNTAIN VIEW, CA",
+            "city": "MOUNTAIN VIEW",
+            "state": "CA",
+            "keyDate": "04/02/2024",
+            "username": null,
+            "selected": true,
+            "beginPeriod": null,
+            "endPeriod": null,
+            "hasChild": false,
+            "orgIncl": false,
+            "childOrgId": 1163094,
+            "uiselected": true,
+            "systems": []
+          },
+          {
+            "parOrgId": 1162685,
+            "rootId": 1164981,
+            "legacyOrgId": "SMOC6000",
+            "orgTypeCode": 1003,
+            "orgTypeName": "System",
+            "orgName": "Mountain View, CA",
+            "city": "Mountain View",
+            "state": "CA",
+            "keyDate": "04/02/2024",
+            "username": null,
+            "selected": true,
+            "beginPeriod": null,
+            "endPeriod": null,
+            "hasChild": false,
+            "orgIncl": false,
+            "childOrgId": 1164981,
+            "uiselected": true,
+            "systems": []
+          }
+        ]
+      }
+    ],
+    "afltdPrvdrPlcholdCode": 1000
+  },
+  "templateVOS": [
+    {
+      "templateId": 10030097,
+      "templateInsDate": "06-05-202009:02:17",
+      "templateDesc": "Set Effective Service Charge (CP) based on 1 benchmark and rate floor",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "06/05/2020 09:02:17 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10027455,
+      "templateInsDate": "08-04-201714:56:48",
+      "templateDesc": "Set Effective Service Charge (CP) based on 2 Penetration and 2 Bases (CP)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "08/04/2017 02:56:48 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10029215,
+      "templateInsDate": "04-08-201910:19:07",
+      "templateDesc": "Set Effective Service Charge (CP), with 2 Subscriber Volume Tiers",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "04/08/2019 10:19:07 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10030197,
+      "templateInsDate": "06-22-202011:54:18",
+      "templateDesc": "Set Effective Service Charge (CP), with 3 Revenue Tiers, No Floor",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "06/22/2020 11:54:18 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10026255,
+      "templateInsDate": "04-09-201913:42:37",
+      "templateDesc": "Set Effective Service Charge (CP), with 3 Subscriber Volume Tiers, Down to Floor",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "04/09/2019 01:42:37 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10033157,
+      "templateInsDate": "08-01-202316:24:36",
+      "templateDesc": "Set Effective Service Charge (CP), with 5 Subscriber Volume Tiers, Down to Floor",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "08/01/2023 04:24:36 PM",
+      "updatedBy": "APOORAN"
+    },
+    {
+      "templateId": 10032037,
+      "templateInsDate": "08-01-202213:32:43",
+      "templateDesc": "Set Effective Service Charge (CP), with Subscriber Volume Tiers – Stacked Subs",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "08/01/2022 01:32:43 PM",
+      "updatedBy": "APOORAN"
+    },
+    {
+      "templateId": 10031966,
+      "templateInsDate": "05-13-202215:26:04",
+      "templateDesc": "Set Effective Service Charge (CP), with Subscriber Volume Tiers, Down to Floor – Plus Play",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "05/13/2022 03:26:04 PM",
+      "updatedBy": "APOORAN"
+    },
+    {
+      "templateId": 10019180,
+      "templateInsDate": "12-07-201011:22:45",
+      "templateDesc": "Set Effective Service Charge (SS) Based on Penetration (SS) with a Percentage Increase over Retail Rate Cap (SS) - 2011+",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "12/07/2010 11:22:45 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10001873,
+      "templateInsDate": "03-24-199817:33:18",
+      "templateDesc": "Set Effective Service Charge (SS) based on 2 Penetration Levels (CP)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "03/24/1998 05:33:18 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10003471,
+      "templateInsDate": "07-07-199814:46:52",
+      "templateDesc": "Set Effective Service Charge (SS) based on Penetration (SYS) and Retail Rate (SS)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "07/07/1998 02:46:52 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10002747,
+      "templateInsDate": "07-07-199814:13:23",
+      "templateDesc": "Set Effective Service Charge (SS) based on Penetration (SYS) and Retail Rate (SYS)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "07/07/1998 02:13:23 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10003923,
+      "templateInsDate": "01-12-199914:33:16",
+      "templateDesc": "Set Effective Service Charge (SS) based on Subscriber Count (CP) and Retail Rate (SYS)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "01/12/1999 02:33:16 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10002777,
+      "templateInsDate": "04-30-199809:48:38",
+      "templateDesc": "Set Effective Service Charge (SS) based on Subscriber Count (CP) with a Percentage Increase Over a Retail Rate Cap (CP)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "04/30/1998 09:48:38 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10012645,
+      "templateInsDate": "01-07-200511:57:57",
+      "templateDesc": "Set Effective Service Charge (SS) based on Subscriber Count (CP) with a Percentage Increase over a Retail Rate Cap (SS) {VOOM}",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "01/07/2005 11:57:57 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10012642,
+      "templateInsDate": "01-06-200512:17:39",
+      "templateDesc": "Set Effective Service Charge (SS) based on Subscriber Count (CP) {w/Penetration Table (CP)}",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "01/06/2005 12:17:39 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10012121,
+      "templateInsDate": "05-09-201716:24:00",
+      "templateDesc": "Set Effective Service Charge (SS) by Penetration (SYS)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "05/09/2017 04:24:00 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10000970,
+      "templateInsDate": "10-03-199711:03:26",
+      "templateDesc": "Set Effective Service Charge (SS) to Constant Value times Constant Percentage over Base Retail Rate (SS)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "10/03/1997 11:03:26 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10001636,
+      "templateInsDate": "01-06-199813:17:27",
+      "templateDesc": "Set Effective Service Charge (SS) to Constant Value with 1 Subscriber Count Base (CP) (Constant Value Increased by Percentage of Retail Rate (SS) over Base Retail Rate (SS) if below Subscriber Count Base (CP))",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "01/06/1998 01:17:27 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10010978,
+      "templateInsDate": "06-27-200309:37:29",
+      "templateDesc": "Set Effective Service Charge (SS) to Constant Value with 1 Subscriber Count Benchmark (CP) and 1 Retail Rate Cap (CP) \n",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "06/27/2003 09:37:29 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10026342,
+      "templateInsDate": "12-11-201814:11:08",
+      "templateDesc": "Set Effective Service Charge (SS) to Constant Value with 1 Subscriber Count Benchmark (CP) and no Alternative",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "12/11/2018 02:11:08 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10002923,
+      "templateInsDate": "05-18-199812:39:04",
+      "templateDesc": "Set Effective Service Charge (SS) to Constant Value with a Penetration Benchmark (CP) and a Retail Rate Cap (CP)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "05/18/1998 12:39:04 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10000044,
+      "templateInsDate": "02-26-199714:51:56",
+      "templateDesc": "Set Effective Service Charge (SS) to Constant Value {Precision 2}",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "02/26/1997 02:51:56 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10000948,
+      "templateInsDate": "05-25-199916:06:46",
+      "templateDesc": "Set Effective Service Charge (SS) to Constant Value {Precision 3}",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "05/25/1999 04:06:46 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10020798,
+      "templateInsDate": "03-04-201316:13:34",
+      "templateDesc": "Set Effective Service Charge (SS) to Constant Value {Precision 9}",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "03/04/2013 04:13:34 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10010239,
+      "templateInsDate": "10-03-200210:01:41",
+      "templateDesc": "Set Effective Service Charge (SS) to Constant with 2 Subscriber Count Benchmarks (CP)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "10/03/2002 10:01:41 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10001696,
+      "templateInsDate": "07-10-201813:03:11",
+      "templateDesc": "Set Effective Service Charge (SS) to Value",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "07/10/2018 01:03:11 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10002568,
+      "templateInsDate": "04-22-199813:31:54",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on Penetration (CP)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "04/22/1998 01:31:54 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10001805,
+      "templateInsDate": "02-25-199811:45:29",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on Penetration (CP) with 1 Penetration Benchmark (CP)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "02/25/1998 11:45:29 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10000967,
+      "templateInsDate": "10-03-199710:36:44",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on Retail Rate (SS) with 1 Retail Rate Base (SS)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "10/03/1997 10:36:44 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10012182,
+      "templateInsDate": "09-10-200411:50:06",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on Sub Count (CP) and Retail Rate (SS) {Corrected}",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "09/10/2004 11:50:06 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10018087,
+      "templateInsDate": "10-14-200916:06:47",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on Subscriber Volume (CP) and Penetration (CP) Table",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "10/14/2009 04:06:47 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10001806,
+      "templateInsDate": "03-10-199816:17:12",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on Subscriber Volume (CP) with 2 Penetration Benchmarks (CP)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "03/10/1998 04:17:12 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10021596,
+      "templateInsDate": "02-12-201412:20:50",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on Subscriber Volume (CP) with 2 Revenue Tiers",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "02/12/2014 12:20:50 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10021595,
+      "templateInsDate": "02-12-201412:31:16",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on Subscriber Volume (CP) with 3 Revenue Tiers",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "02/12/2014 12:31:16 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10020160,
+      "templateInsDate": "03-15-201214:37:29",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on System Service Penetration (SYS)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "03/15/2012 02:37:29 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10025917,
+      "templateInsDate": "10-10-201610:25:43",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on Target and Benchmark",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "10/10/2016 10:25:43 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10012181,
+      "templateInsDate": "10-01-200411:42:49",
+      "templateDesc": "Set Effective Service Charge (SS) to Value based on comparison of Retail Rate (SS) and Constant Value {Corrected}",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "10/01/2004 11:42:49 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10027236,
+      "templateInsDate": "05-22-201714:29:59",
+      "templateDesc": "Set Effective Service Charge (SS) to Value by Percentage with Retail Rate Provision",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "05/22/2017 02:29:59 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10026897,
+      "templateInsDate": "02-08-201716:47:27",
+      "templateDesc": "Set Effective Service Charge (SS) to Value with Base Subscriber Count and 2 Revenue Tiers",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "02/08/2017 04:47:27 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10003391,
+      "templateInsDate": "06-30-199813:59:09",
+      "templateDesc": "Set Effective Service Charge (SS) to Value with a Penetration Benchmark",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "06/30/1998 01:59:09 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10031197,
+      "templateInsDate": "07-13-202115:05:22",
+      "templateDesc": "Set Effective Service Charge based on 3 benchmarks and 3 service charges",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "07/13/2021 03:05:22 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10030178,
+      "templateInsDate": "07-01-202016:00:30",
+      "templateDesc": "Set Effective Service Charge based on 4 Penetration Thresholds",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "07/01/2020 04:00:30 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10031117,
+      "templateInsDate": "07-07-202309:33:34",
+      "templateDesc": "Set Effective Service Charge, with 4 Subscriber Volume Tiers",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "07/07/2023 09:33:34 AM",
+      "updatedBy": "APOORAN"
+    },
+    {
+      "templateId": 10030177,
+      "templateInsDate": "06-29-202009:27:44",
+      "templateDesc": "Set Effective Service Charge, with 4 Subscriber Volume Tiers, Down to Floor",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "06/29/2020 09:27:44 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10033797,
+      "templateInsDate": "02-01-202412:06:58",
+      "templateDesc": "Set Effective Service Charge, with 4 Subscriber Volume Tiers, Down to Floor, Precision 9",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "02/01/2024 12:06:58 PM",
+      "updatedBy": "APOORAN"
+    },
+    {
+      "templateId": 10030958,
+      "templateInsDate": "12-10-202011:23:45",
+      "templateDesc": "Set Effective Svc Charge (SS) based on Prior Effective Rate 2021+",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "12/10/2020 11:23:45 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10026343,
+      "templateInsDate": "12-05-201616:23:14",
+      "templateDesc": "Set Effective Svc Charge (SS) based on Prior Effective Rate with 1 Subscriber Count Benchmark and no Alternative",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "12/05/2016 04:23:14 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10021319,
+      "templateInsDate": "12-13-201314:34:55",
+      "templateDesc": "Set Effective Svc Charge (SS) based on Prior Effective Rate with Rate Increase",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "12/13/2013 02:34:55 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10021414,
+      "templateInsDate": "12-17-201313:48:09",
+      "templateDesc": "Set Effective Svc Charge (SS) based on Prior Effective Rate with Rate Increase (thru lvl 11)",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "12/17/2013 01:48:09 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10023115,
+      "templateInsDate": "01-06-201509:58:13",
+      "templateDesc": "Set Effective Svc Charge (SS) based on Prior Effective Rate with Rate Increase (thru lvl 11) 2015+",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "01/06/2015 09:58:13 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10022775,
+      "templateInsDate": "12-08-201412:04:14",
+      "templateDesc": "Set Effective Svc Charge (SS) based on Prior Effective Rate with Rate Increase 2015+",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "12/08/2014 12:04:14 PM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10027775,
+      "templateInsDate": "12-12-201710:01:15",
+      "templateDesc": "Set Effective Svc Charge (SS) based on Prior Effective Rate with Rate Increase and Svc Charge Cap",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "12/12/2017 10:01:15 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10028916,
+      "templateInsDate": "12-11-201809:56:30",
+      "templateDesc": "Set Effective Svc Charge based on Prior Effective Rate with Rate Increase and a Svc Charge Cap Based on Subscriber Count Threshold",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "12/11/2018 09:56:30 AM",
+      "updatedBy": "MIGRATED"
+    },
+    {
+      "templateId": 10030397,
+      "templateInsDate": "08-03-202010:25:36",
+      "templateDesc": "Set Effective Svc Charge with Multiple Services and 2 Penetrations",
+      "hasUndefinedNamedComp": false,
+      "hasUndefinedStatement": false,
+      "updatedOn": "08/03/2020 10:25:36 AM",
+      "updatedBy": "MIGRATED"
+    }
+  ]
+}
